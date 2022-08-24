@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datastore>
+<employee id="1">
+	<name>sai</name>
+	<salary>300000</salary>
+</employee>
+<employee id="2">
+	<name>bharath</name>
+	<salary>300000</salary>
+</employee>
+<employee id="3">
+	<name>kumar</name>
+	<salary>300000</salary>
+</employee>
+</datastore>
+
+

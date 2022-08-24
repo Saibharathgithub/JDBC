@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Datastore1>
+	<employee1>
+		<name>Kumar</name>
+		<address>Delhi</address>
+	</employee1>
+	<employee1>
+		<name>Bharath</name>
+		<address>Mumbai</address>
+	</employee1>
+</Datastore1>
